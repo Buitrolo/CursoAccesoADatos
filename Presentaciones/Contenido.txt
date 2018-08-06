@@ -1,0 +1,31 @@
+Temario
+
+-Acceso a datos Locales
+	-Archivos 		(2 Clases)
+	-Serialización 		(1 Clase)
+
+-Acceso a datos remotos
+	-Red
+		-Sockets 	(3 Clases)
+	-Web
+		-Web ServicesXML(1 Clases)
+		-REST JSON    	(2 Clases)
+
+-Acceso a bases de datos
+	-SQL			(3-4 Clases)
+	-NoSQL			(3-4 Clases)
+
+
+-Compromiso siguiente clase:
+	-Software Instalado (VSCode/VStudio y SQL Server/MySql)
+	-Repaso del lenguaje
+	-Repaso del Paradigma Orientado a Objetos
+
+
+
+
+
+
+
+
+
