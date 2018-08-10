@@ -1,0 +1,11 @@
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\AccesoADatos\Source\01_Archivos\bin\Debug\netcoreapp2.1\01_Archivos.deps.json
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\AccesoADatos\Source\01_Archivos\bin\Debug\netcoreapp2.1\01_Archivos.runtimeconfig.json
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\AccesoADatos\Source\01_Archivos\bin\Debug\netcoreapp2.1\01_Archivos.runtimeconfig.dev.json
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\AccesoADatos\Source\01_Archivos\bin\Debug\netcoreapp2.1\01_Archivos.dll
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\AccesoADatos\Source\01_Archivos\bin\Debug\netcoreapp2.1\01_Archivos.pdb
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\AccesoADatos\Source\01_Archivos\obj\Debug\netcoreapp2.1\01_Archivos.csprojAssemblyReference.cache
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\AccesoADatos\Source\01_Archivos\obj\Debug\netcoreapp2.1\01_Archivos.csproj.CoreCompileInputs.cache
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\AccesoADatos\Source\01_Archivos\obj\Debug\netcoreapp2.1\01_Archivos.AssemblyInfoInputs.cache
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\AccesoADatos\Source\01_Archivos\obj\Debug\netcoreapp2.1\01_Archivos.AssemblyInfo.cs
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\AccesoADatos\Source\01_Archivos\obj\Debug\netcoreapp2.1\01_Archivos.dll
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\AccesoADatos\Source\01_Archivos\obj\Debug\netcoreapp2.1\01_Archivos.pdb
