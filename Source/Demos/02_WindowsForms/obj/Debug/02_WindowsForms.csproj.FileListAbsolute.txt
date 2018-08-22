@@ -1,0 +1,10 @@
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\AccesoADatos\Source\Demos\02_WindowsForms\bin\Debug\02_WindowsForms.exe.config
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\AccesoADatos\Source\Demos\02_WindowsForms\bin\Debug\02_WindowsForms.exe
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\AccesoADatos\Source\Demos\02_WindowsForms\bin\Debug\02_WindowsForms.pdb
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\AccesoADatos\Source\Demos\02_WindowsForms\obj\Debug\02_WindowsForms.csprojAssemblyReference.cache
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\AccesoADatos\Source\Demos\02_WindowsForms\obj\Debug\_02_WindowsForms.Properties.Resources.resources
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\AccesoADatos\Source\Demos\02_WindowsForms\obj\Debug\02_WindowsForms.csproj.GenerateResource.cache
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\AccesoADatos\Source\Demos\02_WindowsForms\obj\Debug\02_WindowsForms.csproj.CoreCompileInputs.cache
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\AccesoADatos\Source\Demos\02_WindowsForms\obj\Debug\02_WindowsForms.exe
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\AccesoADatos\Source\Demos\02_WindowsForms\obj\Debug\02_WindowsForms.pdb
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\AccesoADatos\Source\Demos\02_WindowsForms\obj\Debug\_02_WindowsForms.Form1.resources
