@@ -1,0 +1,11 @@
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\AccesoADatos\Source\ProyectoDeClase\InVenta\InVenta.Forms\bin\Debug\InVenta.Forms.exe.config
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\AccesoADatos\Source\ProyectoDeClase\InVenta\InVenta.Forms\bin\Debug\InVenta.Forms.exe
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\AccesoADatos\Source\ProyectoDeClase\InVenta\InVenta.Forms\bin\Debug\InVenta.Forms.pdb
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\AccesoADatos\Source\ProyectoDeClase\InVenta\InVenta.Forms\obj\Debug\InVenta.Forms.csprojAssemblyReference.cache
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\AccesoADatos\Source\ProyectoDeClase\InVenta\InVenta.Forms\obj\Debug\InVenta.Forms.Form1.resources
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\AccesoADatos\Source\ProyectoDeClase\InVenta\InVenta.Forms\obj\Debug\InVenta.Forms.Properties.Resources.resources
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\AccesoADatos\Source\ProyectoDeClase\InVenta\InVenta.Forms\obj\Debug\InVenta.Forms.csproj.GenerateResource.cache
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\AccesoADatos\Source\ProyectoDeClase\InVenta\InVenta.Forms\obj\Debug\InVenta.Forms.csproj.CoreCompileInputs.cache
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\AccesoADatos\Source\ProyectoDeClase\InVenta\InVenta.Forms\obj\Debug\InVenta.Forms.exe
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\AccesoADatos\Source\ProyectoDeClase\InVenta\InVenta.Forms\obj\Debug\InVenta.Forms.pdb
+D:\Archivos\Onedrive\Trabajo\Unitropico\2018-II\AccesoADatos\Source\ProyectoDeClase\InVenta\InVenta.Forms\obj\Debug\InVenta.Forms.RegistroProductos.resources
